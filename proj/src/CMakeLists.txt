@@ -1,1 +1,1 @@
-add_executable(example_exe main.cpp)
+add_executable(output main.cpp)
