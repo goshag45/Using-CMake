@@ -1,5 +1,3 @@
-include(FetchContent)
-
 message(STATUS "Fetching SFML...")
 
 # No need to build audio and network modules

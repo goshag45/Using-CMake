@@ -1,5 +1,3 @@
-include(FetchContent)
-
 message(STATUS "Fetching ImGui-SFML...")
 
 set(IMGUI_DIR ${imgui_SOURCE_DIR})
